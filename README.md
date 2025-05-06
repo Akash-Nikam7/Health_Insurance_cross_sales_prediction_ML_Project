@@ -49,24 +49,13 @@ The goal is to develop a prediction system that takes user input (via command li
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/health-insurance-predictor.git
-   cd health-insurance-predictor
-   ```
-
-2. Install dependencies (if needed):
-   ```bash
-   pip install pandas scikit-learn
-   ```
-
-3. Open the Jupyter Notebook or Python file:
+1. Open the Jupyter Notebook or Python file:
    - `health_insurance_predict.ipynb` for interactive mode.
    - `main.py` if you're running from terminal.
 
-4. Ensure the model file `model.pkl` is in the same directory.
+2. Ensure the model file `model.pkl` is in the same directory.
 
-5. Run the notebook or script:
+3. Run the notebook or script:
    - Enter user inputs as prompted.
    - View your data and prediction output.
 
@@ -95,21 +84,8 @@ Response: The customer is NOT likely to buy health insurance. ❌
 ├── main.py
 └── README.md
 ```
-
 ---
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Akash Nikam**
+Mail: akashnikam803@gmail.com
